@@ -1,0 +1,8 @@
+
+    1. 安装Keil C51 V9.00版本，即uV4
+    2. 打开uVision4，点击File---License Management...，打开License Management窗口，复制右上角的CID
+    3. 打开注册机， 在CID窗口里填上刚刚复制的CID，其它设置不变
+    4. 点击Generate生成许可号，复制许可号
+    5. 将许可号复制到License Management窗口下部的New License ID Code，点击右侧的Add LIC
+    6. 若上方的Product显示的是PK51 Prof. Developers Kit即注册成功，Support Period为有效期，一般可以到30年左右，若有效期较短，可多次生成许可号重新注册。
+
